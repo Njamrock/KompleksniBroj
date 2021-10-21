@@ -27,7 +27,6 @@ namespace DrugaLaboratorijskaVjezba
             Console.WriteLine($"kbs1={kbs1}");
             Console.WriteLine($"kbs2={kbs2}");
             Console.ReadKey(false);
-
         }
     }
 }
